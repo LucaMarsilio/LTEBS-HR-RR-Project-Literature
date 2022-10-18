@@ -1,3 +1,3 @@
-# LTEBS-HR-RR-Project-Literature
+# LTEBS-HR-RR-Project-Literature (I Semester 2022/23)
 
-In this repository you will find a literature overview of the Respiration / Heart Rate monitoring project for LTEBS course A.A. 21/22 (II semester).
+In this repository you will find a literature overview of the Respiration / Heart Rate monitoring project for LTEBS course A.A. 22/23 (I semester).
